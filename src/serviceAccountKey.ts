@@ -1,0 +1,12 @@
+export const serviceAccountCredentials = {
+    "type": "service_account",
+    "project_id": "simplebank-a568a",
+    "private_key_id": "535876e22901cd77abdf9db4a7d6f059553dc5bd",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7RnASiWadSkOO\n4D2CoDoohpxrpobeqGE7wR3CJk/9uECvdW5fvFzQ2T3lfmOHxNSJqXq+0zZyW5Uq\nANjrN8GAOm8afY6AVgGheZZSVWQqubk+hKHaDNGd6uKUub1tepGuNvcE9iRUpmUu\nHEKWfsIGE4jKsswI+f7d+gK+/wnKZQ/r0bhG1ZYNLGD9uCeu9+WA9N4c0rwji9Wu\nVokcW8nUx0I1/JmF5sHKglQECi9xkqOmX1T79JAiEueUCMHBY5B74aPlSRptlWSs\nTKzb5eSaqxoTT4QpmZpoFcdv28ZFhFPt8zVF9nV7p9bITkVGLWswN9lx0guRwnlJ\n1CdoSuIvAgMBAAECggEABMPUiywyz7K5iFOdTQsNn8VZCoYorVakbrRJsQxvgZmk\nD7LRtZ7hz7CPWhz+pFA2RjBpPpy6KGu7Hl/6JPX8tuoFtKtYKlzF2tlwoTSqAUpL\nc9NFGPq1hKqazETzlGsHdOLSIy6uGvdG4Mb4TML55dSuaNXmyh2uRfCcDEcJ9TvU\n15tPG5VeyrG9WKtU9LOC3qhqgJjDnmue/+RCRsgZ854iBhdf9kADALrMI90ScYCC\ni3sC2bSYgrQ5rzzhI8B8OBEqZUqE/2wbJ+1Rgc9GjgWLw2OhQp4Frja7M4ud39yd\n+Q0yd/VFUqpqL/wYDXbU1BuZd4W+XVv5jzjKV/jfjQKBgQD0dh4X5i2SoGaU1ou1\nxMvSfxj87ER9hR2WuzbJF15wV0jhqzqYnx6Qp8sOolUkUy9Zwr0xv/hy4niVsTtW\nW78Aky9jZj/IAfhJibopd8ce5I9nNKchZauUsgY/FOSRh3jM/SJagJw+FQO/6w28\nnAuJENGTM9gg5Sl/vd0NJgRKdQKBgQDEHVNpR3tbdecHbU5uYO1tBc5/n6piDe2u\ntnFSZc4HUlc0+9ffVmW+paAIQTRYBcEpMLGEEwCcKoiuivowuyLW58r5kzzchgD1\n+jMb0ew1C/0uPFLGDpNSNM7CRJRFyWg0KnAOGcDhXGUq1nQwTZNeaLfIpDC96Aki\n0HWsJHV9kwKBgE+qEmJ9a0qGJQfJ5tuEV1uweYcqw6MX9y2AsvjTOb5oY2LPNxg3\nenFvjNenBRICXcLlmFwXEDL4JI27pPeejF72mBHPZ2eZZL0qOdV7qBMkLqtWWESk\n6kZZwXlbKKVYPYCn2UMe+Euu83recaqOO6AeL/3FfmAx7dUoHVpEkk9lAoGALFtR\nrWM8lHAzY+umLLMBoIIKtbUATZNG6hhbwz5BfkhybwpzRhF9i8RcUOGmnC4ZBV79\nF5lQrwGzzn6infkFpUPiFdbmkh5BA2Gmw6kUWt8uUZHVSvSq/5HwHeJzAuHODtZ2\nZ8oNZSuHukutFevF5DmdL+VrHNjpkBVEOD460L8CgYAIz8aRz0PRKqKd3A3sY9p+\nE7r2d5lWbC16wD7XNwPW7uiCHLHsQDsVKwpkZpN56LsWYgqQNbAj8ieplgTFSDGW\nJBHExTLHpqa1/ssYxxgspUvj3702eOrQkAAs9Y6TnTNoO/T2FhGOt4RPDwEBY9ST\nixpkmNS2VvunbDuCBD1x9A==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-z2jc1@simplebank-a568a.iam.gserviceaccount.com",
+    "client_id": "114281987970858322987",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-z2jc1%40simplebank-a568a.iam.gserviceaccount.com"
+};
